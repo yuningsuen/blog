@@ -23,7 +23,7 @@ export default function MainContent() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <Link
-                href="/works"
+                href="/cv"
                 className="inline-flex items-center justify-center px-8 py-3 text-lg font-medium text-white bg-blue-600 dark:bg-pink-600 hover:bg-blue-700 dark:hover:bg-pink-700 rounded-lg transition-colors"
               >
                 Check out his CV
